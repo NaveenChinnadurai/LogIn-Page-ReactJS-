@@ -8,7 +8,7 @@ function LoginPage(){
             <div className="mainDiv">
                 <div className="login-title">
                     <h1>Login to your Account</h1>
-                    <p>Choose from 130,000 online video couseswith new additions</p>
+                    <p>Choose from 130,000 online video couses with new additions</p>
                     <p>published every second month</p>
                 </div> 
                 <div className="signin">

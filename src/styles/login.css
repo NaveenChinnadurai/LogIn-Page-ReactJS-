@@ -21,8 +21,8 @@
     color: grey;
 }
 .login-title h1{
-    color: white;
-    font-size: 40px;
+    color: #ffffff;
+    font-size: 30px;
     margin: 5px;
 }
 .signin{
@@ -70,5 +70,6 @@ input,button{
 }
 .forget span{
     color:white;
+    border-bottom: white 1px solid ;
     text-decoration:white solid;
 }
